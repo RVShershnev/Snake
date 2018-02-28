@@ -1,0 +1,26 @@
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\SnakeLib\bin\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\SnakeLib\bin\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\SnakeLib\obj\Debug\SnakeLib.csprojResolveAssemblyReference.cache
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\SnakeLib\obj\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\SnakeLib\obj\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\SnakeLib\obj\Debug\SnakeLib.csprojResolveAssemblyReference.cache
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\SnakeLib\obj\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\SnakeLib\obj\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\SnakeLib\bin\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\SnakeLib\bin\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\SnakeLib\bin\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\SnakeLib\bin\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\SnakeLib\obj\Debug\SnakeLib.csprojResolveAssemblyReference.cache
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\SnakeLib\obj\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\SnakeLib\obj\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\SnakeLib\bin\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\SnakeLib\bin\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\SnakeLib\obj\Debug\SnakeLib.csprojResolveAssemblyReference.cache
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\SnakeLib\obj\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\SnakeLib\obj\Debug\SnakeLib.pdb
+D:\WorkF\Snake\SnakeGame\Snake\SnakeLib\bin\Debug\SnakeLib.dll
+D:\WorkF\Snake\SnakeGame\Snake\SnakeLib\bin\Debug\SnakeLib.pdb
+D:\WorkF\Snake\SnakeGame\Snake\SnakeLib\obj\Debug\SnakeLib.csprojResolveAssemblyReference.cache
+D:\WorkF\Snake\SnakeGame\Snake\SnakeLib\obj\Debug\SnakeLib.csproj.CoreCompileInputs.cache
+D:\WorkF\Snake\SnakeGame\Snake\SnakeLib\obj\Debug\SnakeLib.dll
+D:\WorkF\Snake\SnakeGame\Snake\SnakeLib\obj\Debug\SnakeLib.pdb

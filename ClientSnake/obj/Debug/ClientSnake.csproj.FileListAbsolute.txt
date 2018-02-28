@@ -1,0 +1,96 @@
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\bin\Debug\ClientSnake.exe.config
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\bin\Debug\ClientSnake.exe
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\bin\Debug\ClientSnake.pdb
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\obj\Debug\ClientSnake.csprojResolveAssemblyReference.cache
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\obj\Debug\ClientSnake.FormMain.resources
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\obj\Debug\ClientSnake.Properties.Resources.resources
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\obj\Debug\ClientSnake.csproj.GenerateResource.Cache
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\obj\Debug\ClientSnake.exe
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\obj\Debug\ClientSnake.pdb
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\bin\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVS\Solution\Snake\ClientSnake\bin\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\bin\Debug\ClientSnake.exe.config
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\obj\Debug\ClientSnake.exe
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\obj\Debug\ClientSnake.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\bin\Debug\ClientSnake.exe
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\bin\Debug\ClientSnake.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\bin\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\bin\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\obj\Debug\ClientSnake.csprojResolveAssemblyReference.cache
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\obj\Debug\ClientSnake.FormMain.resources
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\obj\Debug\ClientSnake.Properties.Resources.resources
+C:\Users\roman_000\Desktop\RVShershnev\Snake\Snake (SignalR)\ClientSnake\obj\Debug\ClientSnake.csproj.GenerateResource.Cache
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\bin\Debug\ClientSnake.exe.config
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\obj\Debug\ClientSnake.exe
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\obj\Debug\ClientSnake.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\bin\Debug\ClientSnake.exe
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\bin\Debug\ClientSnake.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\bin\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\bin\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\obj\Debug\ClientSnake.csprojResolveAssemblyReference.cache
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\obj\Debug\ClientSnake.FormMain.resources
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\obj\Debug\ClientSnake.Properties.Resources.resources
+C:\Users\roman_000\Desktop\RVShershnev\Snake\NewSnake\ClientSnake\obj\Debug\ClientSnake.csproj.GenerateResource.Cache
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\ClientSnake.exe.config
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.exe
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\ClientSnake.exe
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\ClientSnake.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\SnakeLib.dll
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\SnakeLib.pdb
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.csprojResolveAssemblyReference.cache
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.FormMain.resources
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.Properties.Resources.resources
+C:\Users\roman_000\Desktop\RVShershnev\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.csproj.GenerateResource.Cache
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\ClientSnake.exe.config
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\ClientSnake.exe
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\ClientSnake.pdb
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.dll
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.Security.dll
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Newtonsoft.Json.dll
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\SnakeLib.dll
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\SnakeLib.pdb
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.xml
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Microsoft.Owin.Security.xml
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\bin\Debug\Newtonsoft.Json.xml
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.csprojResolveAssemblyReference.cache
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.FormMain.resources
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.Properties.Resources.resources
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.csproj.GenerateResource.Cache
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.csproj.CoreCompileInputs.cache
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.exe
+D:\WorkF\Snake\SnakeGame\Snake\ClientSnake\obj\Debug\ClientSnake.pdb
